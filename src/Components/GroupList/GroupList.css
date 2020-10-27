@@ -1,0 +1,13 @@
+.top-title {
+  display: flex;
+  justify-content: space-between;
+}
+.group {
+  background-color: gray;
+  border: solid 1px gray;
+  margin: 20px 0px;
+}
+.group .title {
+  text-align: center;
+  color: #f7f7f7;
+}
