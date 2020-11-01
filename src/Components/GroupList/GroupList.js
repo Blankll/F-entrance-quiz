@@ -22,6 +22,7 @@ class GroupList extends React.Component {
   render() {
     const { groups } = this.state;
     return (
+      // TODO GTB-3: - 加强语义化标签的使用
       <div>
         <div className="top-title">
           <div>
